@@ -30,6 +30,7 @@
     "mysql2": "^3.9.7",
     "proxy-addr": "^2.0.7",
     "reflect-metadata": "^0.2.2",
+    "sharp": "^0.33.3",
     "source-map-support": "^0.5.21"
   }
 }
