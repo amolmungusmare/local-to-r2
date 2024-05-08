@@ -26,3 +26,4 @@ Route.get('/', async () => {
 
 
 Route.post('image', 'MigrationController.LocalDriverToS3')
+Route.delete('image', 'MigrationController.delete')
